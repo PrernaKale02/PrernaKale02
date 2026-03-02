@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Prerna Kale
 
-💻 Computer Engineering Student @ VJTI Mumbai  
+💻 Computer Engineering Student @ VIT Mumbai  
 🚀 Full-Stack & Mobile App Developer  
 🤖 Exploring AI, Cybersecurity & Intelligent Systems  
 ✨ Passionate about building scalable real-world applications  
