@@ -75,7 +75,7 @@
 - Organized interactive learning activities and engagement sessions
 
 ---
-
+<!-- GitHub stats temporarily disabled -->
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PrernaKale02&show_icons=true&theme=tokyonight)
