@@ -76,13 +76,13 @@
 
 ---
 <!-- GitHub stats temporarily disabled -->
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PrernaKale02&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PrernaKale02&layout=compact&theme=tokyonight)
 
----
+--- -->
 
 ## 🌱 Career Interests
 
