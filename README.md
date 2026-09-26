@@ -23,7 +23,7 @@
 `Java` `Python` `JavaScript` `C` `C++`
 
 ### Web Development
-`React.js` `Node.js` `Express.js` `Flask` `HTML` `CSS` `REST APIs`
+`FastAPI` `React.js` `Node.js` `Express.js` `Flask` `HTML` `CSS` `REST APIs`
 
 ### Mobile Development
 `React Native` `Flutter` `Android`
